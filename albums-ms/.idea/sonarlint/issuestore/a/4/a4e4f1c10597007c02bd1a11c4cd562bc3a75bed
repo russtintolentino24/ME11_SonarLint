@@ -1,0 +1,11 @@
+
+q	java:S116"WRename this field "release_year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±©¥Æøÿÿÿÿ
+l	java:S116"RRename this field "band_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿œ² ûÿÿÿÿ
+h	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í–êøÿÿÿÿ
+h	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û’‚´ıÿÿÿÿ
+c	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¸§„
+h	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÓ•®ÿÿÿÿÿ
+S
+java:S1128"=Remove this unused import 'javax.persistence.GenerationType'.(ı÷õ¡
+k	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û’‚´ıÿÿÿÿ
+k	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÓ•®ÿÿÿÿÿ

@@ -1,0 +1,17 @@
+
+p	java:S116"VRename this field "CurrentSong" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã«‹øÿÿÿÿ
+q	java:S116"]Rename this field "CurrentLongestSong" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ñó{
+H
+java:S1481„",Remove this unused "Counter" local variable.(µò€°ıÿÿÿÿ
+V
+java:S1128";Remove this unused import 'javax.persistence.TemporalType'.(×ÓÛøÿÿÿÿ
+o
+java:S2293x"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì¼°›
+f	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨“…¬
+f	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ïïå
+f	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¼°›
+k	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‰±øÿÿÿÿ
+g	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Ñ¨ù
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡è¦ğøÿÿÿÿ
+l	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“µâÁøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êÎ½şÿÿÿÿÿ
